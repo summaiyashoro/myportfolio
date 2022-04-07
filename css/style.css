@@ -53,3 +53,15 @@ p , a , p:hover , a:hover{
     width: 130px;
     border-radius: 5px;
 }
+
+
+
+@media screen and (max-width:500px){
+ h2{
+     font-size: 14px;
+ }   
+
+ h1{
+     font-size: 32px;
+ }
+}
