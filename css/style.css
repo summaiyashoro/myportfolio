@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000;
+}
+
+.mainDiv{
+
+}
+
+.navbar{
+  background-color: #000;
+}
+
+.navbar-toggler{
+    border: none;
+    background: white;
+    font-size: 13px;
+    outline: none !important;
+}
+
+.image-side{
+    width: 100%;
+    height: 90vh;
+    object-fit: contain;
+}
+
+
+p , a , p:hover , a:hover{
+    color: #c1b7b7c7;
+}
+
+.uni{
+    color: #c1b7b7c7;
+    font-size: 11px;
+}
+
+.skillImg{
+    width: 64px;
+    height: 50px;
+    object-fit: contain;
+}
+
+.skill-div{
+    box-shadow: 1px 0px 10px #fff; 
+    width: 330px;
+}
+
+
+.work-img{
+    position: absolute;
+    width: 130px;
+    border-radius: 5px;
+}
